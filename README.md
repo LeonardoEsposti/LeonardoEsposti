@@ -78,5 +78,5 @@
 
 <br clear="both">
 
-[![Spotify](https://novatorem-ecru-phi.vercel.app/api/spotify)](https://open.spotify.com/user/novatorem-ecru-phi)
+[![Spotify](https://novatorem-ecru-phi.vercel.app/api/spotify)](https://open.spotify.com/user/espostileonardo2)
 
