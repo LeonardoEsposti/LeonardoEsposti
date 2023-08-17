@@ -72,5 +72,11 @@
   </a>
 </div>
 
+<h2 align="left">🔥 Songs</h2>
+
+###
+
+<br clear="both">
+
 [![Spotify](https://novatorem-ecru-phi.vercel.app/api/spotify)](https://open.spotify.com/user/novatorem-ecru-phi)
 
