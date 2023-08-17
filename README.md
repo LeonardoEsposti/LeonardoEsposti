@@ -78,5 +78,5 @@
 
 <br clear="both">
 
-[![Spotify](https://song-playing-profile.vercel.app/api/spotify)](https://open.spotify.com/user/espostileonardo2)
+[![Spotify](https://song-playing-profile.vercel.app/api/spotify/?background_color=273848)](https://open.spotify.com/user/espostileonardo2)
 
