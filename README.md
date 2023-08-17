@@ -80,3 +80,5 @@
 
 [![Spotify](https://song-playing-profile.vercel.app/api/spotify/?background_color=273848)](https://open.spotify.com/user/espostileonardo2)
 
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=espostileonardo2&count=3)](https://open.spotify.com/user/espostileonardo2)
+
