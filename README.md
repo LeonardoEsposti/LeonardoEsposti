@@ -1,43 +1,37 @@
-<br clear="both">
+#  Hi 👋! My name is Leonardo and I'm a student from Italy
 
-<h1 align="left">Hi 👋! My name is Leonardo and I'm a student from Italy</h1>
+✨ Creating bugs since 2020
+<br>
+📚 Currently learning Computer Science and Web Development
+<br>
+🌐 Exploring online resources
+<br>
+🎯 Goals: create my own App and achieve very modern website designs by myself
+<br>
+🎲 Fun fact: Charmander does not evolve into Stringmander.
 
-###
+<br>
 
-<br clear="both">
+## 🔥 About me
 
-<h2 align="left">🔥 Description</h2>
+I'm an Italian Scientific High School student, with a strong passion for studying and learning Computer Science. I've been diving into the world of coding both in school and through various online courses. My journey started with curiosity and has now grown into a fascination for creating digital experiences.
 
-###
+<br>
 
-<br clear="both">
+## 🔥 Stats and languages
 
-<p align="left">✨ Creating bugs since 2020<br><br>📚 I'm currently learning Computer Science and Web Development<br><br>🎯 Goals: Create my own App and achieve very modern website designs by myself<br><br>🎲 Fun fact: Charmander does not evolve into Stringmander.</p>
+⬇️ Below are my GitHub stats and all information about my projects and repos 😃
 
-###
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LeonardoEsposti&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeonardoEsposti&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true)](https://github.com/LeonardoEsposti)
 
-<br clear="both">
+<br>
 
-<h2 align="left">🔥 Stats and languages</h2>
+I am focused on Web Development 💻 right now, mostly front-end programming and markup languages, with the idea of creating a full (front-end and back-end) Web or Desktop application 💥.
 
-###
+<br>
 
-<br clear="both">
-
-<div align="center">
-  <a href="https://github.com/LeonardoEsposti">
-    <img src="https://github-readme-stats.vercel.app/api?username=LeonardoEsposti&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&custom_title=Stats" height="150" alt="stats graph"  />
-  </a>
-  <a href="https://github.com/LeonardoEsposti">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeonardoEsposti&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true" height="150" alt="languages graph"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -51,36 +45,34 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
 </div>
 
-###
+<br>
 
-<br clear="both">
+## 🔥 Social media
 
-<h2 align="left">🔥 Social media</h2>
+You can contact me whenever you want! 🔮
 
-###
+<br>
 
-<br clear="both">
+<a href="https://mail.google.com/mail/u/0/?ogbl#inbox?compose=GTvVlcSMScfqKWBtwvPSNSZmVsxxZSrQWTHxVpvxcVpbDRmdxhdlgnFrVRQXjJrdsqtjMdGWrcGrQ" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+</a>
+<a href="https://www.instagram.com/_leo_es_/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4505F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+</a>
+<a href="https://discord.com/channels/@leoes21" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+</a>
+<a href="https://twitter.com/EspostiLeonardo" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+</a>
 
-<div align="left">
-  <a href="https://mail.google.com/mail/u/0/?ogbl#inbox?compose=GTvVlcSMScfqKWBtwvPSNSZmVsxxZSrQWTHxVpvxcVpbDRmdxhdlgnFrVRQXjJrdsqtjMdGWrcGrQ" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/_leo_es_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4505F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.com/channels/@leoes21" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://twitter.com/EspostiLeonardo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-</div>
+<br>
 
-<h2 align="left">🔥 Songs</h2>
+## 🔥 Songs
 
-###
+🎧🕺 Here's the song I am listening to...
 
-<br clear="both">
+<br>
 
 [![Spotify](https://song-playing-profile.vercel.app/api/spotify/?background_color=273848)](https://open.spotify.com/user/espostileonardo2)
 
