@@ -25,10 +25,10 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=LeonardoEsposti">
+  <a href="https://github.com/LeonardoEsposti">
     <img src="https://github-readme-stats.vercel.app/api?username=LeonardoEsposti&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&custom_title=Stats" height="150" alt="stats graph"  />
   </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs?username=LeonardoEsposti">
+  <a href="https://github.com/LeonardoEsposti">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeonardoEsposti&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true" height="150" alt="languages graph"  />
   </a>
 </div>
